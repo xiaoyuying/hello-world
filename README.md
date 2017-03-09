@@ -10,7 +10,7 @@ web.html
 
 <body>
     <form>
-        <table width="202" border="0" align="center" cellpadding="05" cellspacing="0" id="logintable">//定义并构造表格的基本框架
+        <table width="202" border="0" align="center" cellpadding="05" cellspacing="0" id="logintable">
             <tr>
                 <td width="192">
                     <div class="message">欢迎使用该系统</div>
